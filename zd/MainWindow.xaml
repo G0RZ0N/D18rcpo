@@ -14,5 +14,6 @@
                 <DataGridTextColumn Header="CountOfStars" Width="Auto" Binding="{Binding CountOfStars}"/>
             </DataGrid.Columns>
         </DataGrid>
+        
     </Grid>
 </Window>
